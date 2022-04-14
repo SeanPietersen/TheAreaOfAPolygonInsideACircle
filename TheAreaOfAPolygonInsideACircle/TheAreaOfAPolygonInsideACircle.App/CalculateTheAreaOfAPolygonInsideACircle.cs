@@ -16,7 +16,7 @@ namespace TheAreaOfAPolygonInsideACircle.App
              * 
              */
 
-            double angle = 360 / numberOfSides;
+            double angle = 360d / numberOfSides;
             
             double angleOfRightAngleTriangle = angle / 2;
 
